@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 2rem;
+    color: brown;
+    font-size: 2rem;
+    border-bottom: 2px solid black;
+}
+
+p {
+    font-size: 2rem;
+    color: brown;
+}
+
+button {
+    font-size: 2rem;
+    border-radius: 5px;
+    border: 1px solid black;
+    color: brown;
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 100px;
+}
